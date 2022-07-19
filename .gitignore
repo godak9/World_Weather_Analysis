@@ -135,3 +135,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+random_numbers.ipynb
+API_Practice.ipynb
+try-except.ipynb
