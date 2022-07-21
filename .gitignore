@@ -1,4 +1,4 @@
-# Adding config.py file.
+# Adding API key files
 config.py
 
 # Adding additional files.
@@ -138,3 +138,6 @@ dmypy.json
 random_numbers.ipynb
 API_Practice.ipynb
 try-except.ipynb
+Vacation_Itinerary /g_key.py
+Vacation_Search/g_key.py
+Weather_Database/key.py
